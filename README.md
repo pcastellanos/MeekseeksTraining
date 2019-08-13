@@ -1,4 +1,4 @@
-# MeekseeksTraining
+# MeeseeksTraining
 ## Rules
 * Create a folder per topic that you will present 
 * The folder order should be:
